@@ -20,6 +20,32 @@ A command-line Clinic Management System written in C. The project manages patien
 - View a patient record using the patient ID
 - View today's reserved appointment slots
 
+## Screenshots
+
+### Adding a Patient Record
+
+<p align="center">
+  <img src="media/1.png" alt="Admin mode and adding a new patient record" width="850">
+  <br>
+  <em>Admin mode: password validation and creation of a new patient record.</em>
+</p>
+
+### Reserving an Appointment
+
+<p align="center">
+  <img src="media/3.png" alt="Admin reserves an appointment slot" width="850">
+  <br>
+  <em>Admin mode: viewing available time slots and reserving an appointment.</em>
+</p>
+
+### Viewing Patient Data and Reservations
+
+<p align="center">
+  <img src="media/2.png" alt="User views a patient record and today's reservations" width="850">
+  <br>
+  <em>User mode: viewing a patient record and today's appointment reservations.</em>
+</p>
+
 ## Technical Highlights
 
 - Written in **C**
